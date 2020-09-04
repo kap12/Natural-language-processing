@@ -17,7 +17,7 @@ Apply every necessary steps/technique that are not only limited to,
 2. EDA
 3. Build multiple (ML) predictive models and choose the best based on relevant metrics
 4. Use pipeline where necessary 
-5. Create visualization charts that represents most common positive sentiments and negative sentiments.
+5. Create visualization charts that represents most common positive sentiments and negative sentiments
 
 
  
